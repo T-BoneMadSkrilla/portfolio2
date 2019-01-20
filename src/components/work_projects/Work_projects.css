@@ -48,7 +48,7 @@
 }
 .workSetWidth{
     font-size: 1.1em;
-    height: 210px;
+    height: 200px;
     width: 333px;
     /* margin: 0 5px; */
     border-width: .5px;
@@ -58,12 +58,12 @@
 }
 
 .workSetWidthNoPadding{
-    height: 210px;
+    height: 200px;
     width: 333px;
     /* margin: 0 5px; */
     border-width: .5px;
     border-style: solid;
-    /* border-color: #FFF; */
+    border-color: #FFF;
     object-fit: contain;
     padding: 7px;
 }
