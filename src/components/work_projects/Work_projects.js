@@ -12,8 +12,9 @@ class Work_projects extends Component {
                 <a className='workAtags'href="http://www.learnreact.co" target="_blank" > Learn React </a>
                 
                 <div className='workDescriptionContainer'>
-
+                <a href="http://www.learnreact.co" target="_blank" > 
                 <img className="workSetWidthNoPadding" src={require("../../pictures/learnreact.PNG")}></img>
+                </a>
 
                 <div className="workSetWidth">
                     Tech stack <br></br>
@@ -22,7 +23,7 @@ class Work_projects extends Component {
                     Database: PostgreSQL <br></br><br></br>
                     Additional technologies: <br></br>Stlyied Components<br></br> S3 Image Uploader <br></br> React Vis Express Auth0 Flex Box 
                 </div>
-                <div className="workSetWidth">learnreact.co was a site I helped build with 3 other developers. The idea behind the site was for users to log in and create a profile to track their progress. Learn react had lessons, quizes and drills for the user to complete. The site was built in two weeks.</div>
+                <div className="workSetWidth">learnreact.co was a site I helped build with 3 other developers. The idea behind the site was for users to login and create a profile to track their progress. Learn react had lessons, quizzes and drills for the user to complete. The site was built in two weeks.</div>
 
 
                 </div>
@@ -33,7 +34,9 @@ class Work_projects extends Component {
 
                 <div className='workDescriptionContainer'>
 
+                <a href="http://madskrilla.com/" target="_blank"> 
                 <img src={require("../../pictures/madskrilla.PNG")} className="workSetWidthNoPadding"></img>
+                 </a>
 
                 <div className="workSetWidth">
                     Tech stack <br></br>
@@ -44,7 +47,7 @@ class Work_projects extends Component {
                     Draft js<br></br> Stripe
                     </div>
 
-                <div className="workSetWidth"> Madskrilla was designed to be a site where users could log in and create their own eCommerce site to make "mad skrilla". A user could add their own images and blog posts as well as products. I ended up commenting out the shopping functionality before I hosted the site because of a non compete with a previous employer.</div>
+                <div className="workSetWidth"> Madskrilla was designed to be a site where users could log in and create their own eCommerce site to make "mad skrilla". A user could add their own images and blog posts as well as products. I ended up commenting out the shopping functionality before I hosted the site because of a non compete with a previous employer. </div>
 
                 </div>
 
@@ -58,5 +61,3 @@ class Work_projects extends Component {
 }
 
 export default Work_projects;
-
-// src={require("../../pictures/IMG_5237.jpg")}
