@@ -5,7 +5,7 @@ class Resume extends Component{
     render(){
         return(
             <div className="centerResume">
-                <img className="containResume" src={require('../../pictures/resumepic2.PNG')}></img>
+                <img className="containResume" src={require('../../pictures/updatedresumepic3.PNG')}></img>
             </div>
         )
     }
