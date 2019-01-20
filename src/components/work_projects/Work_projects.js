@@ -44,7 +44,7 @@ class Work_projects extends Component {
                     Draft js<br></br> Stripe
                     </div>
 
-                <div className="workSetWidth"> Madskrilla was designed to be a site where users could log in and create their own eCommerce site to make "mad skrilla". A user could add their own images and blog posts as well as products. I ended up commenting out the shopping functionality before I hosted the site because of a non compete I have with Kibo Commerce. </div>
+                <div className="workSetWidth"> Madskrilla was designed to be a site where users could log in and create their own eCommerce site to make "mad skrilla". A user could add their own images and blog posts as well as products. I ended up commenting out the shopping functionality before I hosted the site because of a non compete with a previous employer.</div>
 
                 </div>
 
