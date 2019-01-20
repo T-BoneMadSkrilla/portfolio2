@@ -10,7 +10,7 @@ class About extends Component{
                 <div className="indexZero">
                     I graduated in 2015 from Sam Houston State University with a degree in Geography and a certificate in GIS. I thoroughly enjoyed taking large sets of data and making sense of it with maps. 
                     <br></br>
-                    Their weren't many jobs in GIS when I graduated but I was lucky enough to land my first real job in business development at a small software company. I loved having a difficult job but it wasn't long before I realized my creative/technical bug was unfullied and that's when I started to dabble with coding.   
+                    There weren't many jobs in GIS when I graduated, but I was lucky enough to land my first real job in business development at a small software company. I loved having a difficult job but it wasn't long before I realized my creative/technical bug was unfullied and that's when I started to dabble with coding.   
                 </div>
                 <br></br>
                
