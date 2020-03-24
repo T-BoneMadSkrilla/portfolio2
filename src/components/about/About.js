@@ -15,30 +15,32 @@ class About extends Component{
                 <br></br>
                
                 <div className="firstParagraph">
-                     My development journey started in 2016 when I started learning HTML and CSS through online courses after work. I enjoyed spending time learning and turning ideas into a site. This new knowledge helped me understand the products I was working with better.
+                     In 2016, I started learning HTML and CSS through online courses after work. I wasn't able to do more than just a static site but this new knowledge helped me understand how code works.
                 </div>
                
                <br></br>
                 <div className="secondParagraph">
-                    In 2017, I started an eCommerce site with Shopify. Unfortunately, sales dried up and my marketing budget was nearly zero. It was an incredible learning experience; I learned that I really enjoyed building sites and I was curious about the code behind all the cool things I could do with Shopify and WordPress.   
+                    In 2017, I started an eCommerce site with Shopify. Unfortunately, sales dried up and my marketing budget was nearly zero. It was an incredible learning experience; I learned that I really enjoyed building sites and I was curious about the code behind all the functionality I could do with Shopify and WordPress.   
                 </div>
                    
                 
                 <br></br>
                 <div className="secondParagraph">
-                   It took me a few months but I decided to go to a coding bootcamp to sharpen my skills. After a lot of early mornings and late nights, I graduated from DevMountain in December 2018. A few months later I started working at Craftable as a Tier II support engineer. By October I was working on Frontend Data visualizations and at the start of the new year I was moved into a full stack engineer role. I learned Java during this time  
+                    After studying javascript for a few months, I decided I needed to go to a coding bootcamp to sharpen my skills. After a lot of early mornings and late nights, I graduated from DevMountain in December 2018. Thereafter I started working at Craftable as a Tier II support engineer. By October 2019 I was working on Frontend Data visualizations and at the start of 2020 I was moved into a full stack engineer role. 
                 
                    
                 </div>
                 <br></br>
                 <div className="cardAroundGraph">
-                <div className="competenciesLegend">
-                <div className="firstColorCompetencies"></div>
-                <div className="fontStylingLegend">React</div>
-                <div className="secondColorCompetencies"></div>
-                <div className='fontStylingLegend'>Redux</div>
-                <div className="thirdColorCompetencies"></div>
-                <div className="fontStylingLegend"> Node.js</div>
+                    <div className="competenciesLegend">
+                    <div className="firstColorCompetencies"></div>
+                    <div className="fontStylingLegend">React</div>
+                    <div className="secondColorCompetencies"></div>
+                    <div className='fontStylingLegend'> Java</div>
+                    <div className="thirdColorCompetencies"></div>
+                    <div className="fontStylingLegend"> Ember</div>
+                    <div className="fourthColorCompetencies"></div>
+                    <div className="fontStylingLegend"> Node.js</div>
                 </div>
                 <Competencies/>                
                 </div>

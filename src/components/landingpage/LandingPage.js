@@ -30,7 +30,7 @@ class LandingPage extends Component {
                         <div className="landingPageText">
                             <div className="intro"> Hi, I'm Tyler </div>
                             
-                            <div> I'm an ethusastic web developer with an equal balence between being technical and creative</div>
+                            <div> I'm a full stack engineer</div>
                         </div>
                      </ReactCSSTransitionGroup>
                      </div>
